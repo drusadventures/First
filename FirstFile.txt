@@ -1,2 +1,3 @@
 Local/master:  Adding a new file, staging and pushing.
 Origing/master: Updated file on remote site.
+Local/master: Updated file locally.
